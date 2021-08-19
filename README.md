@@ -1,0 +1,4 @@
+- Hi, I’m Jan
+- I like .NET tech stack and backend programming the most
+- My GitHub wasn't very active for the past year since I wanted to do something else than programming in my free time after a hard years of studying and working fulltime simultaneously
+- I enjoy wood working, fixing my classic sportscar and building with lego
